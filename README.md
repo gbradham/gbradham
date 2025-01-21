@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gbradham
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning Java
-- 📫 bradhamgarrett@gmail.com 
+- 🌱 Studying at the University of Mississippi
+- 📫 gbradham@go.olemiss.edu
 
 
