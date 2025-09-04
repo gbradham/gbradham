@@ -2,7 +2,6 @@
 
 🎓 **Senior Computer Science Student**  
 📍 University of Mississippi (Class of 2026)  
-🎓️ Incoming **PhD Biomedical Engineering Candidate** (Fall 2026)  
 🔬 I build biomedical devices that bridge hardware and software.
 
 ---
@@ -37,20 +36,3 @@ Cross-platform mobile apps + low-power NRF devices for real-time biomedical data
 - Python, TensorFlow
 - Pose Estimation
 - Biomedical Signal Processing
-
----
-
-## 📌 Current Projects
-
-- 🫀 **PPG-based Health Tracker** – Real-time signal prediction on mobile via AR models  
-- 🤖 **Pose Estimation Lab Tools** – TensorFlow-based tracking system for biomechanics research  
-- 🔬 **Low-power Wearables** – NRF-based designs for continuous health monitoring
-
----
-
-## 📫 Let's Connect
-
-- 🧪 [LinkedIn]([https://www.linkedin.com/in/garrett-bradham-34965929b/])
----
-
-> “Building devices that bring research into reality.”  
